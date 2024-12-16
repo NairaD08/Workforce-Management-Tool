@@ -96,3 +96,5 @@ If you have any questions about the application, feel free to reach out:
 ---
 
 This README provides a comprehensive overview of the Employee Management System, detailing its purpose, features, and how to get started. By following the prompts in the command-line interface, users can efficiently manage their employee data.
+![Untitled Video December 16, 2024 11_58 AM](https://github.com/user-attachments/assets/740bd292-b194-4975-9d7a-ee34526030a2)
+
